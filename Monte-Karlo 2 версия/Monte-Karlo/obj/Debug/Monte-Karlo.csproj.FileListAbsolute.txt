@@ -1,0 +1,30 @@
+C:\Users\Student\Desktop\Monte-Karlo\Monte-Karlo\bin\Debug\Monte-Karlo.exe.config
+C:\Users\Student\Desktop\Monte-Karlo\Monte-Karlo\bin\Debug\Monte-Karlo.exe
+C:\Users\Student\Desktop\Monte-Karlo\Monte-Karlo\bin\Debug\Monte-Karlo.pdb
+C:\Users\Student\Desktop\Monte-Karlo\Monte-Karlo\obj\Debug\Monte-Karlo.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Monte-Karlo\Monte-Karlo\obj\Debug\Monte_Karlo.Form1.resources
+C:\Users\Student\Desktop\Monte-Karlo\Monte-Karlo\obj\Debug\Monte_Karlo.Properties.Resources.resources
+C:\Users\Student\Desktop\Monte-Karlo\Monte-Karlo\obj\Debug\Monte-Karlo.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Monte-Karlo\Monte-Karlo\obj\Debug\Monte-Karlo.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Monte-Karlo\Monte-Karlo\obj\Debug\Monte-Karlo.exe
+C:\Users\Student\Desktop\Monte-Karlo\Monte-Karlo\obj\Debug\Monte-Karlo.pdb
+C:\Users\student-235\Desktop\Monte-Karlo\Monte-Karlo\bin\Debug\Monte-Karlo.exe.config
+C:\Users\student-235\Desktop\Monte-Karlo\Monte-Karlo\bin\Debug\Monte-Karlo.exe
+C:\Users\student-235\Desktop\Monte-Karlo\Monte-Karlo\bin\Debug\Monte-Karlo.pdb
+C:\Users\student-235\Desktop\Monte-Karlo\Monte-Karlo\obj\Debug\Monte-Karlo.csproj.AssemblyReference.cache
+C:\Users\student-235\Desktop\Monte-Karlo\Monte-Karlo\obj\Debug\Monte_Karlo.Form1.resources
+C:\Users\student-235\Desktop\Monte-Karlo\Monte-Karlo\obj\Debug\Monte_Karlo.Properties.Resources.resources
+C:\Users\student-235\Desktop\Monte-Karlo\Monte-Karlo\obj\Debug\Monte-Karlo.csproj.GenerateResource.cache
+C:\Users\student-235\Desktop\Monte-Karlo\Monte-Karlo\obj\Debug\Monte-Karlo.csproj.CoreCompileInputs.cache
+C:\Users\student-235\Desktop\Monte-Karlo\Monte-Karlo\obj\Debug\Monte-Karlo.exe
+C:\Users\student-235\Desktop\Monte-Karlo\Monte-Karlo\obj\Debug\Monte-Karlo.pdb
+C:\Users\student-235\Desktop\Monte-Karlo 2 версия\Monte-Karlo\bin\Debug\Monte-Karlo.exe.config
+C:\Users\student-235\Desktop\Monte-Karlo 2 версия\Monte-Karlo\bin\Debug\Monte-Karlo.exe
+C:\Users\student-235\Desktop\Monte-Karlo 2 версия\Monte-Karlo\bin\Debug\Monte-Karlo.pdb
+C:\Users\student-235\Desktop\Monte-Karlo 2 версия\Monte-Karlo\obj\Debug\Monte-Karlo.csproj.AssemblyReference.cache
+C:\Users\student-235\Desktop\Monte-Karlo 2 версия\Monte-Karlo\obj\Debug\Monte_Karlo.Form1.resources
+C:\Users\student-235\Desktop\Monte-Karlo 2 версия\Monte-Karlo\obj\Debug\Monte_Karlo.Properties.Resources.resources
+C:\Users\student-235\Desktop\Monte-Karlo 2 версия\Monte-Karlo\obj\Debug\Monte-Karlo.csproj.GenerateResource.cache
+C:\Users\student-235\Desktop\Monte-Karlo 2 версия\Monte-Karlo\obj\Debug\Monte-Karlo.csproj.CoreCompileInputs.cache
+C:\Users\student-235\Desktop\Monte-Karlo 2 версия\Monte-Karlo\obj\Debug\Monte-Karlo.exe
+C:\Users\student-235\Desktop\Monte-Karlo 2 версия\Monte-Karlo\obj\Debug\Monte-Karlo.pdb
